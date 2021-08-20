@@ -1,2 +1,2 @@
-# CTF-Tools
-Some useful tips for various CTF challenges
+# CTF-Journey
+Some useful tips for various types of CTF challenges
