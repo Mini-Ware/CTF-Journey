@@ -1,6 +1,8 @@
 #Website directory searching
 ##  Web directory bruteforcers
 - dirb(run dirb on terminal)
+- dirbuster (with UI)
+- gobuster (similar tool)
 - dirsearch(faster alternative to dirb) [github](https://github.com/maurosoria/dirsearch)
 ##  Web crawlers
 - dirhunt [github](https://github.com/Nekmo/dirhunt)
