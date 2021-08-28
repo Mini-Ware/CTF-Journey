@@ -6,8 +6,12 @@
 # base
 there are many types of bases,
 base2, base8, base10, base16, base64 and more!
-`base10` is what we are used to, it has a range from 1-9
-`base2` is what computers at its core uses, it has a range from 0-1
+- `base2` also known as binary, it has a range from 0-1
+- `base8` also known as octal.
+- `base10` is what we are used to, it has a range from 1-9
+- `base16` also known as hexadecimal, can be found in bits of two
+- `base64` is easily spotted through having equal signs at the end
+[note: may not be seen all the time]
 
 # XOR cyphers
 XOR cyphers are intresting
