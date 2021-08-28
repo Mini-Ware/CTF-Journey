@@ -1,4 +1,3 @@
-#Website directory searching
 ##  Web directory bruteforcers
 - dirb(run dirb on terminal)
 - dirbuster (requires GUI)
