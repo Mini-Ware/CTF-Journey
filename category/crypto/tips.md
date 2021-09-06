@@ -1,4 +1,4 @@
-# Different encrypthon methods covered here
+# Different encryption methods covered here
 - change of base
 - XOR
 - URL encoding
