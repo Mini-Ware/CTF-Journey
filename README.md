@@ -6,6 +6,8 @@ Some useful tips for various types of CTF challenges</br></br>
 # Categories
 - [Crypto](https://github.com/Mini-Ware/CTF-Journey/tree/main/category/crypto)
 - [Forensics](https://github.com/Mini-Ware/CTF-Journey/tree/main/category/forensics)
+- [Steg](https://github.com/Mini-Ware/CTF-Journey/tree/main/category/steg)
+- [Pentesting](https://github.com/Mini-Ware/CTF-Journey/tree/main/category/pentesting)
 - [OSINT](https://github.com/Mini-Ware/CTF-Journey/tree/main/category/osint)
 - [Pwn](https://github.com/Mini-Ware/CTF-Journey/tree/main/category/pwn)
 - [Reversing](https://github.com/Mini-Ware/CTF-Journey/tree/main/category/reversing)
