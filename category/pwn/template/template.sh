@@ -1,5 +1,6 @@
 #!/bin/bash
 function run()	{
+	#NOTE: you may need to install the "expect" shell on the terminal
 	expect <<EOF
 	eval spawn $1;
  	expect "input prompt here";
@@ -19,5 +20,5 @@ do
 	exploit+="A";
 done
 exploit+="input malicious code here"
-#This is how the attack is lauunched
+#This is how the attack is launched
 run $target $exploit
