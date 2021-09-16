@@ -1,8 +1,11 @@
 # CTF-Journey
 Some useful tips for various types of CTF challenges</br></br>
-![](https://img.shields.io/badge/license-GPL-blue)
-![](https://img.shields.io/github/contributors/Mini-Ware/CTF-Journey)
-![](https://img.shields.io/github/last-commit/Mini-Ware/CTF-Journey)
+![License](https://img.shields.io/github/license/Mini-Ware/CTF-Journey)
+![Stars](https://img.shields.io/github/stars/Mini-Ware/CTF-Journey)
+![Forks](https://img.shields.io/github/forks/Mini-Ware/CTF-Journey)<br>
+![Contributors](https://img.shields.io/github/contributors/Mini-Ware/CTF-Journey)
+![Issues](https://img.shields.io/github/issues/Mini-Ware/CTF-Journey)
+![Commit](https://img.shields.io/github/last-commit/Mini-Ware/CTF-Journey)
 # Categories
 - [Crypto](https://github.com/Mini-Ware/CTF-Journey/tree/main/category/crypto)
 - [Forensics](https://github.com/Mini-Ware/CTF-Journey/tree/main/category/forensics)
