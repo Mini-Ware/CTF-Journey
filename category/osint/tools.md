@@ -1,7 +1,7 @@
 
 # OSINT tools
-- OSINT framework [here](https://osintframework.com/)
-- Sherlock [github](https://github.com/sherlock-project/sherlock)
-- Search engines [google](https://www.google.com) [bing](https://www.bing.com/)
+- OSINT framework [Website](https://osintframework.com/)
+- Sherlock [GitHub](https://github.com/sherlock-project/sherlock)
+- Search engines (Using dorks) [Google](https://www.google.com) [Bing](https://www.bing.com/)
 you can use any search engines of your choice
-- tineye, a reverse image search engine [here](https://tineye.com/)
+- tineye, a reverse image search engine [Website](https://tineye.com/)
