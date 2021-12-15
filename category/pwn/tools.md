@@ -1,7 +1,7 @@
 
 # PWN tools
 ## • Exploitation
-- Exploit Database [website](https://www.exploit-db.com/)
+- Exploit Database [Website](https://www.exploit-db.com/)
 ### binary exploitation tools
-- pwndbg [github](https://github.com/pwndbg/pwndbg)
-- GEF [github](https://github.com/hugsy/gef)
+- pwndbg [GitHub](https://github.com/pwndbg/pwndbg)
+- GEF [GitHub](https://github.com/hugsy/gef)
