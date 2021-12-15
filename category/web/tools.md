@@ -2,9 +2,9 @@
 - dirb(run dirb on terminal)
 - dirbuster (requires GUI)
 - gobuster (similar tool)
-- dirsearch(faster alternative to dirb) [github](https://github.com/maurosoria/dirsearch)
+- dirsearch(faster alternative to dirb) [GitHub](https://github.com/maurosoria/dirsearch)
 ##  Web crawlers
-- dirhunt [github](https://github.com/Nekmo/dirhunt)
+- dirhunt [GitHub](https://github.com/Nekmo/dirhunt)
 ##  Packet utils
 - burpsuite(requires GUI)
 - wget
@@ -13,4 +13,4 @@
 - Reflected XSS
 - DOM based XSS
 ## SQL Injection
-- sqlmap [github](https://github.com/sqlmapproject/)
+- sqlmap [GitHub](https://github.com/sqlmapproject/)
