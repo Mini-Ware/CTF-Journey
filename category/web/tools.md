@@ -8,3 +8,9 @@
 ##  Packet utils
 - burpsuite(requires GUI)
 - wget
+## XSS
+- Stored XSS
+- Reflected XSS
+- DOM based XSS
+## SQL Injection
+- sqlmap [github](https://github.com/sqlmapproject/)
