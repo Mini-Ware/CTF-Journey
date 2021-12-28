@@ -1,9 +1,19 @@
+# Tools
+- RsaCTFTool [GitHub](https://github.com/Ganapati/RsaCtfTool)
+- XORtool [GitHub](https://github.com/hellman/xortool)
+- hash_extender [GitHub](https://github.com/iagox86/hash_extender)
+- FeatherDuster [GitHub](https://github.com/nccgroup/featherduster)
+- CyberChef (view strings) [Online Tool](https://gchq.github.io/CyberChef/)
+- Hashcat
+- John the Ripper
+- Orphcrack
+
 # Different encryption methods covered here
 - change of base
 - XOR
 - URL encoding
 
-# base
+## base
 there are many types of bases,
 base2, base8, base10, base16, base64 and more!
 - `base2` also known as binary, it has a range from 0-1
@@ -13,7 +23,7 @@ base2, base8, base10, base16, base64 and more!
 - `base64` is easily spotted through having equal signs at the end
 [note: may not be seen all the time]
 
-# XOR cyphers
+## XOR cyphers
 XOR cyphers are intresting
 ```python
 X ^ Y = z
@@ -22,7 +32,7 @@ Y ^ z = X
 ```
 therefore, if you have two of the XOR values, you are able to find the last unknown value
 
-# URL encoding
+## URL encoding
 can be indentified easily.
 Starts with % and two values following it
 e.g.

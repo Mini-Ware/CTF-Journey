@@ -1,5 +1,4 @@
-
-# OSINT tools
+# OSINT Tools
 - OSINT framework [Website](https://osintframework.com/)
 - Sherlock [GitHub](https://github.com/sherlock-project/sherlock)
 - Search engines (Using dorks) [Google](https://www.google.com) [Bing](https://www.bing.com/)
