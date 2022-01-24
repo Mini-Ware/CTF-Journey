@@ -11,7 +11,7 @@ Some useful tips for various types of CTF challenges</br></br>
 - [Cryptography](https://github.com/Mini-Ware/CTF-Journey/tree/main/Categories/Cryptography)
 - [Forensics](https://github.com/Mini-Ware/CTF-Journey/tree/main/Categories/Forensics)
 - [OSINT](https://github.com/Mini-Ware/CTF-Journey/tree/main/Categories/OSINT)
-- [Pentesting](https://github.com/Mini-Ware/CTF-Journey/tree/main/Categories/Pentesting)
+- [Networking](https://github.com/Mini-Ware/CTF-Journey/tree/main/Categories/Networking)
 - [Pwn](https://github.com/Mini-Ware/CTF-Journey/tree/main/Categories/Pwn)
 - [Reverse Engineering](https://github.com/Mini-Ware/CTF-Journey/tree/main/Categories/Reverse%20Engineering)
 - [Steganography](https://github.com/Mini-Ware/CTF-Journey/tree/main/Categories/Steganography)
