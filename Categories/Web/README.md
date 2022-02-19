@@ -10,6 +10,7 @@
 - wget
 ## XSS
 - Stored XSS
+> If an SVG with XSS payload is in an iframe or embed of a website, it can be executed
 - Reflected XSS
 - DOM based XSS
 ## SQL Injection
