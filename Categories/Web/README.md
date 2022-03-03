@@ -14,8 +14,13 @@
 - Reflected XSS
 - DOM based XSS
 ## SQL Injection
-- sqlmap [GitHub](https://github.com/sqlmapproject/)
-- practice [Website](http://mystery.knightlab.com/)
+- Union based attack
+> Application displays the output of the query, allowing you to steal information from the database
+- Error based attack
+> Application returns an error with details about the query, helping you to craft queries to bypass checks
+- Resources
+> Sqlmap [GitHub](https://github.com/sqlmapproject/)</br>
+> Practice [Website](http://mystery.knightlab.com/)
 ## Identify Vulnerablilities
 - Steps to test for CSRF [Guide](https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/06-Session_Management_Testing/05-Testing_for_Cross_Site_Request_Forgery)
 - Steps to test for Broken Authentication [Guide](https://owasp.org/www-project-top-ten/2017/A2_2017-Broken_Authentication)
