@@ -12,8 +12,9 @@
 - Stored XSS
 > If an SVG with XSS payload is in an iframe or embed of a website, it can be executed
 - Reflected XSS
-> When queries to a website is handled in an unsafe way
+> When queries to a website is handled and returned in an unsafe way
 - DOM based XSS
+> Client side attack, browser executes payload that didn't came from the server
 ## SQL Injection
 - Union based attack
 > Application displays the output of the query, allowing you to steal information from the database
