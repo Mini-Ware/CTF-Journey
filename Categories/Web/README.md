@@ -10,6 +10,7 @@
 - wget
 ## XSS
 - Stored XSS
+> Website uses external resources that contains malicious code</br>
 > If an SVG with XSS payload is in an iframe or embed of a website, it can be executed
 - Reflected XSS
 > When queries to a website is handled and returned in an unsafe way
