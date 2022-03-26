@@ -31,10 +31,13 @@
 {{ 7*'7' }}
     Twig: 49
     Jinja2: 7777777
+{{ 7 }}
+    Golang: 7
 ```
 
 ### How to perform the SSTI:
 For Flask servers:
+
 Get config:
 `{{config}}`
 
@@ -86,6 +89,12 @@ Get local/global variables (from Python RCE)
       {% endif %}
     {% endfor %}
 ```
+
+For golang:
+```
+{{.<variable or function here>}}
+```
+Note that the dot is important.
 
 Reference/more info here: https://github.com/w181496/Web-CTF-Cheatsheet#ssti (or https://github-com.translate.goog/w181496/Web-CTF-Cheatsheet?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp#ssti for translated version)
 ## Identify Vulnerablilities
