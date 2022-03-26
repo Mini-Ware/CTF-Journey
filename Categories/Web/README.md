@@ -96,7 +96,9 @@ For golang:
 ```
 Note that the dot is important.
 
-Reference/more info here: https://github.com/w181496/Web-CTF-Cheatsheet#ssti (or https://github-com.translate.goog/w181496/Web-CTF-Cheatsheet?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp#ssti for translated version)
+- Reference/more info [GitHub](https://github.com/w181496/Web-CTF-Cheatsheet#ssti) / [Translated Version](https://github-com.translate.goog/w181496/Web-CTF-Cheatsheet?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp#ssti)
+- Payload for more languages [Website](https://book.hacktricks.xyz/pentesting-web/ssti-server-side-template-injection)
+
 ## Identify Vulnerablilities
 - Steps to test for CSRF [Guide](https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/06-Session_Management_Testing/05-Testing_for_Cross_Site_Request_Forgery)
 - Steps to test for Broken Authentication [Guide](https://owasp.org/www-project-top-ten/2017/A2_2017-Broken_Authentication)
