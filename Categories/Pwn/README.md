@@ -1,5 +1,3 @@
-
-# Pwn tools
 ## Exploitation
 - Exploit Database [Website](https://www.exploit-db.com/)
 ## Restricted shell
