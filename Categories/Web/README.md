@@ -6,8 +6,12 @@
 ##  Web crawlers
 - dirhunt [GitHub](https://github.com/Nekmo/dirhunt)
 ##  Packet utils
-- burpsuite(requires GUI)
+- Burp Suite (requires GUI) [Website](https://portswigger.net/burp)
 - wget
+## LFI (Local File Inclusion)
+- Commonly found in PHP web application (maybe through Wordpress plugins etc)
+- Vulnerable websites can allow you to access local files through directory traversal
+- Look out for ways where you can supply a file path and it is served as a download/printed to the page
 ## XSS
 - Stored XSS
 > Website uses external resources that contains malicious code</br>
