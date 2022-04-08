@@ -14,3 +14,7 @@
 |C|255.255.255.0|192.0.0.0 - 223.255.255.255|
 |D|NA|224.0.0.0 - 239.255.255.255|
 |E|NA|240.0.0.0 - 255.255.255.255|
+
+> 127.x.x.x are loopback addresses (localhost)
+
+> Class A gives the most host but least network while class C gives the most network but least host
