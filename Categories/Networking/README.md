@@ -18,3 +18,6 @@
 > 127.x.x.x are loopback addresses (localhost)
 
 > Class A gives the most host but least network while class C gives the most network but least host
+## Public vs Private IP addresses
+- You need a public IP address to access the internet
+- Devices in a network are given private IP addresses
