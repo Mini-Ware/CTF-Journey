@@ -21,3 +21,6 @@
 ## Public vs Private IP addresses
 - You need a public IP address to access the internet
 - Devices in a network are given private IP addresses
+- Those addresses are converted into a public IP address by NAT (Network Address Translation)
+- This conversion is done in your router for you to access the internet
+- Public addresses are given to you by your ISP (Internet service provider)
