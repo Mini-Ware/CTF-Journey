@@ -31,7 +31,7 @@
 > Application returns an error with details about the query, helping you to craft queries to bypass checks
 - Resources
 > Sqlmap [GitHub](https://github.com/sqlmapproject/)</br>
-> Practice [Website](http://mystery.knightlab.com/)
+> Learn and try using SQL [Website](http://mystery.knightlab.com/)
 ## Server-side Template Injection (SSTI)
 ### Testing:  
 
@@ -113,3 +113,5 @@ Note that the dot is important.
 ## Broken Authentication
 ### Testing
 - Steps to test for Broken Authentication [Guide](https://owasp.org/www-project-top-ten/2017/A2_2017-Broken_Authentication)
+## Practice
+- bWAPP, a free and open source deliberately insecure web application [Website](http://www.itsecgames.com/)
