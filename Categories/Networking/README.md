@@ -24,3 +24,7 @@
 - Those addresses are converted into a public IP address by NAT (Network Address Translation)
 - This conversion is done in your router for you to access the internet
 - Public addresses are given to you by your ISP (Internet service provider)
+
+## HTTPS Proxy tool
+- mitmproxy [Website](https://mitmproxy.org/)
+- BurpSuite [Website](https://portswigger.net/burp)
