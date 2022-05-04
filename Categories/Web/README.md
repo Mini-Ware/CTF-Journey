@@ -113,5 +113,7 @@ Note that the dot is important.
 ## Broken Authentication
 ### Testing
 - Steps to test for Broken Authentication [Guide](https://owasp.org/www-project-top-ten/2017/A2_2017-Broken_Authentication)
+## Apache
+- `.htaccess` files are configuration files for its directory
 ## Practice
 - bWAPP, a free and open source deliberately insecure web application [Website](http://www.itsecgames.com/)
