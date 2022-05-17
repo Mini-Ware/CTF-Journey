@@ -9,3 +9,9 @@
 ## Binary exploitation tools
 - pwndbg [GitHub](https://github.com/pwndbg/pwndbg)
 - GEF [GitHub](https://github.com/hugsy/gef)
+## Types of binary exploitation
+Usually caused by buffer overflow/format string vulnerabilities
+- Stack based
+> Overwrite return address on stack to redirect code execution (Only for x86 binaries)
+- Heap based
+> Use after free
