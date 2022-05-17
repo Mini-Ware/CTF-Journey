@@ -25,3 +25,6 @@ NOTE: Tools may appear more then once if they offer different functionalities.
 - iaito (radare2 frontend) (free) [GitHub](https://github.com/radareorg/iaito)
 - rizin (fork of radare2) (free) [GitHub](https://github.com/rizinorg/rizin)
 - Cutter (rizin frontend) (free) [Website](https://cutter.re) [GitHub](https://github.com/rizinorg/cutter)
+
+### Decompilers
+- Uncompyle6 (for python bytecode) [GitHub](https://github.com/rocky/python-uncompyle6)
