@@ -5,6 +5,8 @@
 - Metasploit [Website](https://www.metasploit.com)/[GitHub](https://github.com/rapid7/metasploit-framework)
 ## Subnet classes
 
+- IP subnet calculator [Website](https://www.calculator.net/ip-subnet-calculator.html)
+
 > Subnet mask shows which octets are the same in a network
 
 |Class|Subnet mask|Range|
