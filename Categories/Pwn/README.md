@@ -7,6 +7,7 @@
 - Check binaries for SUID permission bit
 - Kernel bugs
 ## Binary exploitation tools
+- pwntools [GitHub](https://github.com/Gallopsled/pwntools)
 - pwndbg [GitHub](https://github.com/pwndbg/pwndbg)
 - GEF [GitHub](https://github.com/hugsy/gef)
 ## Types of binary exploitation
