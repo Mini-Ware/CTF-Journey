@@ -32,6 +32,24 @@
 - Resources
 > Sqlmap [GitHub](https://github.com/sqlmapproject/)</br>
 > Learn and try using SQL [Website](http://mystery.knightlab.com/)
+## Query Selector Injection
+### Example
+- In MongoDB + NodeJS web apps
+> Query for login details
+```js
+db.users.find({username: username, password: password});
+```
+> Malicious input
+```
+{
+    "username": {"$gt": ""},
+    "password": {"$gt": ""}
+}
+```
+> {"$gt": ""} will result in true, $gt is a query selector which compares with ""
+### Mitigation
+- Make sure input gets sanitised as string
+- Remove $ and . to prevent query selectors
 ## Server-side Template Injection (SSTI)
 ### Testing:  
 
