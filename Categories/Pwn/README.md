@@ -16,3 +16,5 @@ Usually caused by buffer overflow/format string vulnerabilities
 > Overwrite return address on stack to redirect code execution (Only for x86 binaries)
 - Heap based
 > Use after free
+### Format string vulnerability
+> Putting user input into functions that can take in format specifiers can potentially be exploited
