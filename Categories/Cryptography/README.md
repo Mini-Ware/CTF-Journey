@@ -5,6 +5,7 @@
 - FeatherDuster [GitHub](https://github.com/nccgroup/featherduster)
 - CyberChef (View Strings) [Online Tool](https://gchq.github.io/CyberChef/)
 - dCode (Cipher Identifier) [Online Tool](https://www.dcode.fr/cipher-identifier)
+- fernet (Type of encryption) [Online Tool](https://asecuritysite.com/encryption/ferdecode)
 - Hashcat
 - John the Ripper
 - Orphcrack
