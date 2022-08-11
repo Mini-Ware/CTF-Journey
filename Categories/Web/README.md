@@ -1,5 +1,5 @@
 ##  Web directory bruteforcers
-- dirb(run dirb on terminal)
+- dirb (run dirb on terminal)
 - dirbuster (requires GUI)
 - gobuster (similar tool)
 - dirsearch(faster alternative to dirb) [GitHub](https://github.com/maurosoria/dirsearch)
