@@ -8,6 +8,9 @@
 ##  Packet utils
 - Burp Suite (requires GUI) [Website](https://portswigger.net/burp)
 - wget
+## XXE (XML external entity) injection
+- Happens when an application parses uses data from XML files which can be modified to be malicious
+[Website](https://portswigger.net/web-security/xxe)
 ## LFI (Local File Inclusion)
 - Commonly found in PHP web application (maybe through Wordpress plugins etc)
 - Vulnerable websites can allow you to access local files through directory traversal
