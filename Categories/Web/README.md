@@ -138,3 +138,6 @@ Note that the dot is important.
 - `.htaccess` files are configuration files for its directory
 ## Practice
 - bWAPP, a free and open source deliberately insecure web application [Website](http://www.itsecgames.com/)
+
+## Common python applications pitfalls
+- Article explainling various common python application pitfalls which can be exploited [Website](https://medium.com/swlh/hacking-python-applications-5d4cd541b3f1)
