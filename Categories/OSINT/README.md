@@ -5,6 +5,7 @@
 - Search engines (Using dorks) [Google](https://www.google.com) [Bing](https://www.bing.com/) <br>
 you can use any search engines of your choice
 - tineye, a reverse image search engine ([Website](https://tineye.com/))
+- epieos, osint tool for email and phone number ([Website](https://epieos.com/))
 - [Google Images](https://images.google.com), [Google Lens](https://lens.google.com)
 - [Shodan](https://shodan.io)
 - [The Wayback Machine](https://archive.org/)
