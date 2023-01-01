@@ -5,6 +5,9 @@
 - The Sleuth Kit (TSK) [Website](https://www.sleuthkit.org/sleuthkit/) [GitHub](https://github.com/sleuthkit/sleuthkit)
 - Autospy (GUI version) [Website](https://autopsy.com) [GitHub](https://github.com/sleuthkit/autopsy)
 
+## Memory analysis
+- Volatility, supports Windows, MacOS and Linux memory dumps [Website](https://www.volatilityfoundation.org/)
+
 ### Some useful commands
 - `mmls`: displays  the  layout of the partitions in a volume system
 - `fls`: list file and directory names in a disk image
