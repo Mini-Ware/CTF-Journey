@@ -6,7 +6,7 @@
 - Autospy (GUI version) [Website](https://autopsy.com) [GitHub](https://github.com/sleuthkit/autopsy)
 
 ## Memory analysis
-- Volatility, supports Windows, MacOS and Linux memory dumps [Website](https://www.volatilityfoundation.org/)
+- Volatility, supports Windows, MacOS and Linux memory dumps [Website](https://www.volatilityfoundation.org/) [GitHub](https://github.com/volatilityfoundation/volatility3)
 
 ### Some useful commands
 - `mmls`: displays  the  layout of the partitions in a volume system
