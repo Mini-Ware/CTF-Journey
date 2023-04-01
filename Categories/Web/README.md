@@ -1,3 +1,6 @@
+## Resources
+- PayloadAllTheThings [Github](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master)
+
 ##  Web directory bruteforcers
 - dirb (run dirb on terminal)
 - dirbuster (requires GUI)
@@ -127,6 +130,7 @@ Note that the dot is important.
 
 - Reference/more info [GitHub](https://github.com/w181496/Web-CTF-Cheatsheet#ssti) / [Translated Version](https://github-com.translate.goog/w181496/Web-CTF-Cheatsheet?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp#ssti)
 - Payload for more languages [Website](https://book.hacktricks.xyz/pentesting-web/ssti-server-side-template-injection)
+- Payload all the things SSTI [Github](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Template%20Injection)
 
 ## CSRF
 ### Testing
@@ -141,3 +145,6 @@ Note that the dot is important.
 
 ## Common python applications pitfalls
 - Article explainling various common python application pitfalls which can be exploited [Website](https://medium.com/swlh/hacking-python-applications-5d4cd541b3f1)
+
+## Common files
+- `robots.txt` contains information for crawlers to know which files and directories it has permission to check, this could potentially show hidden files
