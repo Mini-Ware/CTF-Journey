@@ -16,3 +16,5 @@ Some useful tips for various types of CTF challenges</br></br>
 - [Reverse Engineering](https://github.com/Mini-Ware/CTF-Journey/tree/main/Categories/Reverse%20Engineering)
 - [Steganography](https://github.com/Mini-Ware/CTF-Journey/tree/main/Categories/Steganography)
 - [Web](https://github.com/Mini-Ware/CTF-Journey/tree/main/Categories/Web)
+- [Blockchain](https://github.com/Mini-Ware/CTF-Journey/tree/main/Categories/Blockchain)
+- [Hardware](https://github.com/Mini-Ware/CTF-Journey/tree/main/Categories/Hardware)
