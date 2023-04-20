@@ -28,3 +28,4 @@ NOTE: Tools may appear more then once if they offer different functionalities.
 
 ### Decompilers
 - Uncompyle6 (for python bytecode) [GitHub](https://github.com/rocky/python-uncompyle6)
+- Dogbolt (online decompiler tool) [Website](https://dogbolt.org/)
