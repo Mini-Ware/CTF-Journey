@@ -12,8 +12,11 @@
 
 # Different encryption methods covered here
 - change of base
-- XOR
 - URL encoding
+- XOR
+- block ciphers
+- DES
+- RSA
 
 ## base
 there are many types of bases,
@@ -24,15 +27,6 @@ base2, base8, base10, base16, base64 and more!
 - `base16` also known as hexadecimal, can be found in bits of two
 - `base64` is easily spotted through having equal signs at the end
 [note: may not be seen all the time]
-
-## XOR cyphers
-XOR cyphers are intresting
-```python
-X ^ Y = z
-X ^ z = Y
-Y ^ z = X
-```
-therefore, if you have two of the XOR values, you are able to find the last unknown value
 
 ## URL encoding
 can be indentified easily.
@@ -45,3 +39,18 @@ C: %43
 ```
 as you can see, it follows the ascii value system.
 URL encoding [website](https://onlineasciitools.com/url-encode-ascii)
+
+## XOR cyphers
+XOR cyphers are intresting
+```python
+X ^ Y = z
+X ^ z = Y
+Y ^ z = X
+```
+therefore, if you have two of the XOR values, you are able to find the last unknown value
+
+## block ciphers
+
+## DES
+
+## RSA
