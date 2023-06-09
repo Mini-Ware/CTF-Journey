@@ -1,3 +1,6 @@
+## What is binary exploitation?
+- introduction [website](https://guyinatuxedo.github.io/00-intro/index.html) [website](https://vickieli.dev/binary%20exploitation/intro-to-reverse-engineering/)
+
 ## Exploitation
 - Exploit Database [Website](https://www.exploit-db.com/)
 ## Restricted shell
