@@ -6,18 +6,23 @@
 - dirbuster (requires GUI)
 - gobuster (similar tool)
 - dirsearch(faster alternative to dirb) [GitHub](https://github.com/maurosoria/dirsearch)
+
 ##  Web crawlers
 - dirhunt [GitHub](https://github.com/Nekmo/dirhunt)
+
 ##  Packet utils
 - Burp Suite (requires GUI) [Website](https://portswigger.net/burp)
 - wget
+
 ## XXE (XML external entity) injection
 - Happens when an application parses uses data from XML files which can be modified to be malicious
 [Website](https://portswigger.net/web-security/xxe)
+
 ## LFI (Local File Inclusion)
 - Commonly found in PHP web application (maybe through Wordpress plugins etc)
 - Vulnerable websites can allow you to access local files through directory traversal
 - Look out for ways where you can supply a file path and it is served as a download/printed to the page
+
 ## XSS
 - Stored XSS
 > Website uses external resources that contains malicious code</br>
@@ -26,6 +31,7 @@
 > When queries to a website is handled and returned in an unsafe way
 - DOM based XSS
 > Client side attack, browser executes payload that didn't came from the server
+
 ## SQL Injection
 ### Testing
 - Try using one (single or double) quote for the input and see if there is any errors
@@ -38,6 +44,7 @@
 - Resources
 > Sqlmap [GitHub](https://github.com/sqlmapproject/)</br>
 > Learn and try using SQL [Website](http://mystery.knightlab.com/)
+
 ## Query Selector Injection
 ### Example
 - In MongoDB + NodeJS web apps
@@ -56,6 +63,7 @@ db.users.find({username: username, password: password});
 ### Mitigation
 - Make sure input gets sanitised as string
 - Remove $ and . to prevent query selectors
+
 ## Server-side Template Injection (SSTI)
 ### Testing:  
 
@@ -148,3 +156,7 @@ Note that the dot is important.
 
 ## Common files
 - `robots.txt` contains information for crawlers to know which files and directories it has permission to check, this could potentially show hidden files
+- `sitemap.xml` contains infomation about the pages a site has to help search engines crawl and index through the website faster
+
+## AWS configuration flaw
+- Pacu, a web exploitation framework for exploiting configuration flaws in AWS servers [GitHub](https://github.com/RhinoSecurityLabs/pacu)
