@@ -6,8 +6,9 @@
 - CyberChef (View Strings) [Online Tool](https://gchq.github.io/CyberChef/)
 - dCode (Cipher Identifier) [Online Tool](https://www.dcode.fr/cipher-identifier)
 - fernet (Type of encryption) [Online Tool](https://asecuritysite.com/encryption/ferdecode)
-- Hashcat
-- John the Ripper
+- Hashcat [GitHub](https://github.com/hashcat/hashcat)
+- John the Ripper [GitHub](https://github.com/openwall/john)
+- randcrack (predict Python `random` numbers) [PyPi](https://pypi.org/project/randcrack/)
 - Orphcrack
 
 # Different encryption methods covered here
@@ -54,3 +55,6 @@ therefore, if you have two of the XOR values, you are able to find the last unkn
 ## DES
 
 ## RSA
+Typically, simpler challenges can be solved with RsaCTFTool [GitHub](https://github.com/Ganapati/RsaCtfTool)
+
+## One Time Pad (OTP)
