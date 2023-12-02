@@ -2,6 +2,7 @@
 - Wireshark [Website](https://www.wireshark.org/) [GitHub](https://github.com/wireshark/wireshark)
 
 ## Disk image analysis
+- FTK Imager [Website](https://www.exterro.com/ftk-imager)
 - The Sleuth Kit (TSK) [Website](https://www.sleuthkit.org/sleuthkit/) [GitHub](https://github.com/sleuthkit/sleuthkit)
 - Autospy (GUI version) [Website](https://autopsy.com) [GitHub](https://github.com/sleuthkit/autopsy)
 
