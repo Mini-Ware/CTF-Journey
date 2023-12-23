@@ -6,6 +6,7 @@
 - Exiftool [GitHub](https://github.com/exiftool/exiftool)
 - binwalk (CLI tool) [GitHub](https://gist.github.com/briankip/8f8747a2488af827e3b4)
 - stegonline-check bit planes for hidden data [Website](https://stegonline.georgeom.net/upload)
+- fotoforensics [Online Tool](https://fotoforensics.com/)
 
 ## Network protocol analysis
 - Wireshark [Website](https://www.wireshark.org/) [GitHub](https://github.com/wireshark/wireshark)
