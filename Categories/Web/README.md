@@ -164,3 +164,6 @@ Note that the dot is important.
 
 ## AWS configuration flaw
 - Pacu, a web exploitation framework for exploiting configuration flaws in AWS servers [GitHub](https://github.com/RhinoSecurityLabs/pacu)
+
+# Cookie Attack
+- Flask Unsign [Python Tool]](https://pypi.org/project/flask-unsign/)
