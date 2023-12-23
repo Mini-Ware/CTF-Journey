@@ -1,6 +1,10 @@
 ## Resources
 - PayloadAllTheThings [Github](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master)
 
+# API Testing
+- Postman
+- Insomia
+
 ##  Web directory bruteforcers
 - dirb (run dirb on terminal)
 - dirbuster (requires GUI)
