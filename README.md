@@ -1,5 +1,5 @@
 # CTF-Journey
-Some useful tips for various types of CTF challenges</br></br>
+Useful tips for various types of cybersecurity challenges</br></br>
 ![License](https://img.shields.io/github/license/Mini-Ware/CTF-Journey)
 ![Stars](https://img.shields.io/github/stars/Mini-Ware/CTF-Journey)
 ![Forks](https://img.shields.io/github/forks/Mini-Ware/CTF-Journey)<br>

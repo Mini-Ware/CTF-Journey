@@ -1,4 +1,4 @@
-## Overview of categories that might be involved in a Jeopardy Capture the Flag (CTF) competition
+## Categories in a Jeopardy Capture the Flag (CTF) competition
 |Categories|Description|
 |:---:|:---:|
 |Cryptography|Range from very simple ciphers to complex algorithms like RSA/AES/Hashes|
